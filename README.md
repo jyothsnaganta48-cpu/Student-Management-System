@@ -25,18 +25,18 @@ Records automatically save to `students.json` after each operation
 ### **How It Works**
 
 User runs: python student_management.py <br>
-    ↓ /
-System loads existing students from students.json (if any) /
-    ↓ /
-Menu appears with 8 options /
-    ↓ /
-User selects action (add/view/search/update/delete/stats/export/exit) /
-    ↓ /
-System performs action with validation /
-    ↓ /
-Changes saved to students.json automatically /
-    ↓ /
-Repeat until user exits /
+    ↓ <br>
+System loads existing students from students.json (if any) <br>
+    ↓ <br>
+Menu appears with 8 options <br>
+    ↓ <br>
+User selects action (add/view/search/update/delete/stats/export/exit) <br>
+    ↓ <br>
+System performs action with validation <br>
+    ↓ <br>
+Changes saved to students.json automatically <br>
+    ↓ <br>
+Repeat until user exits <br>
 
 ## **Run the application**
 python student_management.py
