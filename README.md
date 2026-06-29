@@ -24,7 +24,7 @@ Records automatically save to `students.json` after each operation
 
 ### **How It Works**
 
-User runs: python student_management.py /
+User runs: python student_management.py <br>
     ↓ /
 System loads existing students from students.json (if any) /
     ↓ /
